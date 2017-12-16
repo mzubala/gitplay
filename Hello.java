@@ -6,6 +6,8 @@ class Hello {
 		System.out.println("Ale jaja");
 	}
 
-	public void foo() {}
+	public void foo() {
+		System.out.println("Ale fajny git");
+	}
 
 }
