@@ -5,4 +5,9 @@ class Hello2 {
 
 	}
 
+
+	public void foo() {
+		System.out.println("foo");
+	}
+
 }
