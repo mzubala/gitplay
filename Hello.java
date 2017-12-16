@@ -9,8 +9,7 @@ class Hello {
 	}
 
 	public void foo() {
-		System.out.println("Moje inne zmiany");
-		System.out.print("Ja ja cie");
+		System.out.println("A nie jeszcze inaczej");
 	}
 
 }
