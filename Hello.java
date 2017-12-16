@@ -5,4 +5,6 @@ class Hello {
 
 	}
 
+	public void foo() {}
+
 }
